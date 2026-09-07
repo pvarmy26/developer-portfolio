@@ -5,7 +5,7 @@ skills, projects, internship experience, certifications, and contact information
 
 ## 🌐 Live Portfolio
 
-https://pvarmy26.github.io/developer-portfolio/
+https://pvarmy26.github.io/pvarmy26/
 
 ## 👨‍💻 About
 
@@ -81,7 +81,7 @@ Open the project folder and launch `index.html` in a browser.
 
 - GitHub: https://github.com/pvarmy26
 - LinkedIn: https://www.linkedin.com/in/pradeep-peddakonda/
-- Portfolio: https://pvarmy26.github.io/developer-portfolio/
+- Portfolio: https://pvarmy26.github.io/pvarmy26/
 
 ## 👤 Author
 
