@@ -57,7 +57,7 @@ LightGBM to predict coronary artery disease from clinical data.
 
 ## 📁 Project Structure
 
-developer-portfolio/
+pvarmy26/
 ├── index.html
 ├── css/
 │   ├── style.css
@@ -73,7 +73,7 @@ developer-portfolio/
 
 Clone the repository:
 
-git clone https://github.com/pvarmy26/developer-portfolio.git
+git clone https://pvarmy26.github.io/pvarmy26/
 
 Open the project folder and launch `index.html` in a browser.
 
